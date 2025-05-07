@@ -3,6 +3,6 @@ A curated collection of cutting-edge AI tools in 2025, covering dating, NSFW con
 
 # AI Tool Categories
 ### [AI Dating Apps 💞](https://github.com/LuckyDuck2Living/Awesome-AI-Tools/blob/main/AI%20Dating%20Apps.md#ai-dating-apps-in-2025-revolutionizing-romance-with-artificial-intelligence)
-### AI NSFW Image Generators 🖼️
 ### AI NSFW Video Generators 📽️
+### AI NSFW Image Generators 🖼️
 ### AI Roleplay Generators 🎭
